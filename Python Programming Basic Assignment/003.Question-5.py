@@ -28,4 +28,4 @@ try:
             pass
     print(prime_list)
 except:
-    print("Invalid input")
+    print("Something Wrong")
